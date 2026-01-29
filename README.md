@@ -28,6 +28,8 @@ See:
 🚀 [Self-hosting](https://docs.twenty.com/developers/self-hosting/docker-compose)
 🖥️ [Local Setup](https://docs.twenty.com/developers/local-setup)
 
+> **Note:** Self-hosting is recommended for production use, while Local Setup is best for development and testing.
+
 # Does the world need another CRM?
 
 We built Twenty for three reasons:
